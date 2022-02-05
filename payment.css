@@ -1,8 +1,40 @@
-.header img{
-    height: 60px;
-    width: 60px;
+body {
+  margin: 0px;
+  background-color: #e0e0e0;
 }
-.hotel img{
-    height: 500px;
-    width: 500px;
+.header {
+  background-color: rosybrown;
+}
+.header img {
+  height: 60px;
+  width: 60px;
+}
+.hotel img {
+  height: 500px;
+  width: 500px;
+}
+.hotel {
+  background-color: rgb(132, 132, 138);
+  width: 50%;
+  height: 20%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 27%;
+}
+#Cdetail {
+  margin: 2%;
+}
+#Total {
+  margin: 2%;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 1% 2%;
+}
+.footer {
+  background-color: rosybrown;
+}
+.hotel {
+  background-color: rgb(132, 132, 138);
+  width: 50%;
+  height: 20%;
 }

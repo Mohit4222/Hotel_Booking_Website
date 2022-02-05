@@ -1,8 +1,33 @@
-.logo img{
-    height: 60px;
-    width: 60px;
+.logo img {
+  height: 60px;
+  width: 60px;
 }
-.content img{
-    height: 500px;
-    width: 500px;
+body {
+  margin: 0px;
+  background-color: #e0e0e0;
+}
+.header {
+  background-color: rosybrown;
+}
+
+.content img {
+  height: 500px;
+  width: 500px;
+  margin-top: 2%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+form {
+  margin-right: 4%;
+  margin-left: 4%;
+  margin-bottom: 1%;
+}
+#Description {
+  margin-top: 2%;
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-bottom: 2%;
+}
+.footer {
+  background-color: rosybrown;
 }
